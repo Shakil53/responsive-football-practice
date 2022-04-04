@@ -27,6 +27,8 @@ h1{
 .header-details{
     color: #FFFFFF;
     font-weight: 485px;
+    line-height: 1.29;
+    gap: 10%
     font-size: 64px;
 }   
 
